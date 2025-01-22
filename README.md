@@ -3,10 +3,10 @@
 This project aims to evaluate and enhance the text-to-SQL capabilities of open-source large language models (LLMs) by leveraging the **Spider Benchmark**, a standard for assessing the performance of text-to-SQL systems.
 
 The implementation is based on the source code of **DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction**, one of the top-ranking models on the Spider Benchmark. We modified the original code to optimize performance and adapt it to our specific requirements.
-<img src="https://github.com/user-attachments/assets/6bba25a8-7b0d-41b1-84df-8cd3bb097780.png" width="200" height="400"/>
-<img src="[https://github.com/user-attachments/assets/6bba25a8-7b0d-41b1-84df-8cd3bb097780](https://github.com/user-attachments/assets/1c8a1a62-56bc-4c30-8edf-639f88e0573f).png" width="200" height="400"/>
-![Figure_1](https://github.com/user-attachments/assets/6bba25a8-7b0d-41b1-84df-8cd3bb097780) 
-![Figure_2](https://github.com/user-attachments/assets/1c8a1a62-56bc-4c30-8edf-639f88e0573f) 
+
+<img src="https://github.com/user-attachments/assets/6bba25a8-7b0d-41b1-84df-8cd3bb097780" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/1c8a1a62-56bc-4c30-8edf-639f88e0573f" width="500" height="400"/>
+
 
 
 ---
